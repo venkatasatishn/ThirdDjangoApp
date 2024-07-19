@@ -1,0 +1,8 @@
+-r personal_portfolio/requirements.txt
+black
+pre-commit
+ruff
+coverage
+pytest-django
+pytest-cov
+pytest-dotenv
